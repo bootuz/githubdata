@@ -1,0 +1,5 @@
+venv/
+.idea/
+astemir_boziev.zip
+__pycache__/
+.DS_Store
